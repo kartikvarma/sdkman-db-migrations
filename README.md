@@ -1,7 +1,7 @@
 # SDKMAN Database Migrations
 
-[![Build Status](https://travis-ci.org/sdkman/sdkman-db-migrations.svg?branch=master)](https://travis-ci.org/sdkman/sdkman-db-migrations)
-[![Slack](https://slack.sdkman.io/badge.svg)](https://slack.sdkman.io)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/sdkman/sdkman-db-migrations/migrate.yml)](https://github.com/sdkman/sdkman-db-migrations/actions/workflows/migrate.yml)
+[![Discord](https://img.shields.io/discord/1245471991117512754)](https://discord.gg/y9mVJYVyu4)
 
 This enables the users of SDKMAN to contribute new Installation Candidates and related Versions to be served by the API.
 
@@ -141,7 +141,7 @@ be set to either `None` or a `Some`, in turn containing `AdoptOpenJDK`, `Amazon`
 
 ## Fast track
 
-It is usually worth notifying us of the PR on [#cli-development](https://slack.sdkman.io) Slack chat in case we miss your PR.
+It is usually worth notifying us of your PR on our Discord server's [#vendors](https://discord.gg/tgftp8dZVm) channel.
 
 ## Contributors
 
